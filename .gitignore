@@ -1,0 +1,7 @@
+*.wav
+src.pem
+*.log
+*.aux
+*\#*
+*.swp
+
